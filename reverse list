@@ -1,0 +1,2 @@
+list='python'
+print(str(list)[::-1])
